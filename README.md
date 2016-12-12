@@ -1,0 +1,2 @@
+# hamasitory
+only_hamahase
